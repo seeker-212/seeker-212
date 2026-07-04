@@ -157,7 +157,11 @@ I also spend time learning and practicing:
 ---
 
 # Snake Contribution section
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seeker-212/seeker-212/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🎯 Current Goals
 
