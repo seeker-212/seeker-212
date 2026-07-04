@@ -156,13 +156,8 @@ I also spend time learning and practicing:
 
 ---
 
-# 📊 Contribution Graph
+# Snake Contribution section
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seeker-212&theme=tokyo-night" />
-</p>
-
----
 
 # 🎯 Current Goals
 
