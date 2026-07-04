@@ -138,15 +138,7 @@ I also spend time learning and practicing:
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seeker-212&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeker-212&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -156,9 +148,7 @@ I also spend time learning and practicing:
 
 ---
 
-# Snake Contribution section
-## 🐍 Contribution Snake
-
+# My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/seeker-212/seeker-212/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
